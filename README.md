@@ -11,9 +11,16 @@ Esta carpeta contiene una colección de proyectos de JavaScript que he creado. L
    - **Tecnologías:** HTML, CSS, JavaScript
    - **[Más Información](principiante/ChangingBackgroundColor/README.md)**
 
+_Mas Proyectos de nivel básico serán agregados próximamente._
+
 ### Nivel Medio
 
-_Proyectos de nivel medio serán agregados próximamente._
+1. **Quiz App**
+   - **Descripción:** Una aplicación web interactiva que permite a los usuarios responder preguntas de múltiple mientras compiten contra el tiempo.
+   - **Tecnologías:** HTML, CSS, JavaScript
+   - **[Más Información](intermedio/QuizApp/README.md)**
+
+_Mas Proyectos de nivel medio serán agregados próximamente._
 
 ### Nivel Profesional
 
