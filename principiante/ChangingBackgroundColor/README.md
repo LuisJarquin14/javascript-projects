@@ -27,15 +27,17 @@ El objetivo de este proyecto es demostrar cómo utilizar JavaScript para cambiar
 1. Clona este repositorio:
 
    ```sh
-   git clone https://github.com/tuusuario/ChangingBackgroundColor.git
+   git clone https://github.com/LuisJarquin14/ChangingBackgroundColor.git
 
    ```
 
 2. Navega a la carpeta del proyecto:
+
    ```sh
    cd ChangingBackgroundColor
 
    ```
+
 3. Abre el archivo `index.html` en tu navegador.
 
 ## Contribuciones
@@ -69,3 +71,7 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 5. Abre un Pull Request.
 
 - ¡Felicidades! Ahora tu contribución ha sido incluida en el proyecto original.
+
+## Licencia
+
+Este proyecto se encuentra bajo la licencia [MIT](/LICENSE).

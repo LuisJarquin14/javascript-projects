@@ -26,7 +26,7 @@ Para ejecutar cualquier proyecto, sigue estos pasos generales:
 1. Clona este repositorio:
 
    ```sh
-   git clone https://github.com/tuusuario/javascript-projects.git
+   git clone https://github.com/LuisJarquin14/javascript-projects.git
    ```
 
 2. Navega a la carpeta del proyecto especifico:
@@ -69,4 +69,4 @@ Si deseas contribuir a alguno de estos proyectos o agregar nuevos, por favor sig
 
 ## Licencia
 
-Este proyecto se encuentra bajo la licencia [MIT](LICENSE).
+Este repositorio se encuentra bajo la licencia [MIT](LICENSE).
